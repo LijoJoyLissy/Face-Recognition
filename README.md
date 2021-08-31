@@ -1,2 +1,3 @@
-# Face-Recognition
-To Recognize face from live video
+# One_Shot_Learning
+
+## Please refer the document attached to this repo
